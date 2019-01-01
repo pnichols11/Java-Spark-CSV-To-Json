@@ -3,6 +3,7 @@
   <h3>Description</h3>
 </p>
 This is a simple Java Spark 2 example that uses Spark Datasets to load a CSV File and then convert it to JSON. The code is offered as is with no warranties or support.
+</p>
 <p>
   The program uses a directory within the default path named /resource/free-zipcode-database.csv as the default file. This file   is loaded into a SparkSession and assigned to a Spar Dataset. 
 </p>  
