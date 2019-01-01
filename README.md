@@ -1,6 +1,6 @@
 # Java-Spark-CSV-To-Json
 <p>
-  <h3>Description</h3?
+  <h3>Description</h3>
 </p>
 This is a simple Java Spark 2 example that uses Spark Datasets to load a CSV File and then convert it to JSON. The code is offered as is with no warranties or support.
 <p>
